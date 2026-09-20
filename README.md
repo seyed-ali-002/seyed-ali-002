@@ -2,7 +2,7 @@
 
 ### Junior Backend Developer | Python • Django • REST API
 
-I'm a Computer Engineering graduate focused on backend development with Python and Django.
+I'm a Computer Engineering student at Tehran University focused on backend development with Python and Django.
 
 I enjoy building RESTful APIs, backend systems, and web applications with clean architecture, maintainable code, and practical engineering principles.
 
@@ -17,6 +17,24 @@ I enjoy building RESTful APIs, backend systems, and web applications with clean 
 * 🗄️ PostgreSQL & Redis
 * 🐳 Docker
 * 🚀 Currently improving my backend engineering skills
+
+---
+
+## Let's Connect
+
+I'm interested in backend development, software engineering, and building practical applications.
+
+<p align="left">
+
+<a href="https://t.me/seyed_ali_002">
+  <img src="https://img.shields.io/badge/Telegram-seyed__ali__002-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://github.com/seyed-ali-002">
+  <img src="https://img.shields.io/badge/GitHub-seyed--ali--002-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
@@ -79,24 +97,6 @@ I'm continuously improving my backend development skills in:
 ![GitHub Streak](https://streak-stats.demolab.com?user=seyed-ali-002\&theme=tokyonight\&hide_border=true)
 
 </div>
-
----
-
-## Let's Connect
-
-I'm interested in backend development, software engineering, and building practical applications.
-
-<p align="left">
-
-<a href="https://t.me/seyed_ali_002">
-  <img src="https://img.shields.io/badge/Telegram-seyed__ali__002-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<a href="https://github.com/seyed-ali-002">
-  <img src="https://img.shields.io/badge/GitHub-seyed--ali--002-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
